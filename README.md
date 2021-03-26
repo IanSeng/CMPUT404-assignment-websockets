@@ -59,3 +59,21 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+
+Refrences
+========================
+**WebSocketsExamples**
+* By [Dr.Abram Hindle](https://github.com/abramhindle)
+* From [GitHub](https://github.com/abramhindle/WebSocketsExamples)
+* Accessed Mar 25 2021
+
+**WebSocket**
+* From [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+* Accessed Mar 25 2021
+
+**Set Python3 version on Mac**
+* By [Matthew Broberg](https://opensource.com/users/mbbroberg)
+* By [Moshe Zadka](https://opensource.com/users/moshez)
+* From [opensource.com](https://opensource.com/article/19/5/python-3-default-mac)
+* Accessed Mar 25 2021

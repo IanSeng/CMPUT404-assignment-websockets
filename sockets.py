@@ -26,6 +26,8 @@ app = Flask(__name__)
 sockets = Sockets(app)
 app.debug = True
 
+# Derived & referenced to Dr.Abram Hindle Link: https://github.com/abramhindle/WebSocketsExamples
+
 class World:
     def __init__(self):
         self.clear()
